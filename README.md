@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Krishnasde2002
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me krishna701286@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Krishnasde2002/Krishnasde2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
